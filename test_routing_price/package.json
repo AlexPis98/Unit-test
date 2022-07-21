@@ -1,0 +1,20 @@
+{
+  "name": "test_routing_price",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "web3": "^1.7.4"
+  },
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
