@@ -42,4 +42,4 @@ async function tokenToNETH(count, token_adress, token_decimals) {
 
 }
 
-module.exports = {tokenToNETH}
+module.exports = {tokenToNETH, DAI, token_decimals}
